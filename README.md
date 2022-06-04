@@ -1,6 +1,6 @@
 # Images
 
-[](/images/img1.jpg)
+![](/images/img1.jpg)
 
 # Getting Started with Create React App
 
